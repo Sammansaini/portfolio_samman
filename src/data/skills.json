@@ -1,0 +1,58 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "domain": "Front End Development",
+        "skills": [
+          { "name": "HTML", "proficiency": 90 },
+          { "name": "CSS", "proficiency": 85 },
+          { "name": "JavaScript", "proficiency": 80 },
+          { "name": "PHP", "proficiency": 75 },
+          { "name": "WordPress", "proficiency": 85 }
+        ]
+      },
+      {
+        "id": 2,
+        "domain": "Languages",
+        "skills": [
+          { "name": "Hindi", "proficiency": 90 },
+          { "name": "English", "proficiency": 85 }
+        ]
+      },
+      {
+        "id": 3,
+        "domain": "Back End Development",
+        "skills": [
+          { "name": "NodeJS", "proficiency": 90 },
+          { "name": "SSR", "proficiency": 85 }
+        ]
+      },
+      {
+        "id": 1,
+        "domain": "Front End Development",
+        "skills": [
+          { "name": "HTML", "proficiency": 90 },
+          { "name": "CSS", "proficiency": 85 },
+          { "name": "JavaScript", "proficiency": 80 },
+          { "name": "PHP", "proficiency": 75 },
+          { "name": "WordPress", "proficiency": 85 }
+        ]
+      },
+      {
+        "id": 2,
+        "domain": "Languages",
+        "skills": [
+          { "name": "Hindi", "proficiency": 90 },
+          { "name": "English", "proficiency": 85 }
+        ]
+      },
+      {
+        "id": 3,
+        "domain": "Back End Development",
+        "skills": [
+          { "name": "NodeJS", "proficiency": 90 },
+          { "name": "SSR", "proficiency": 85 }
+        ]
+      }
+    ]
+  }

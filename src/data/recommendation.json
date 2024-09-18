@@ -1,0 +1,42 @@
+[
+    {
+      "rating": 5,
+      "review": "Amazing Work!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "name": "Tiana Philips",
+      "title": "Photographer",
+      "imageSrc": "recommendation/Profile (1).png"
+    },
+    {
+      "rating": 5,
+      "review": "Great Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "name": "James Gouse",
+      "title": "Graphic Designer",
+      "imageSrc": "recommendation/Profile.png"
+    },
+    {
+      "rating": 5,
+      "review": "Amazing Work!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "name": "Tiana Philips",
+      "title": "Photographer",
+      "imageSrc": "recommendation/Profile (1).png"
+    },
+    {
+      "rating": 5,
+      "review": "Great Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "name": "Talan Westervelt",
+      "title": "Business Man",
+      "imageSrc": "recommendation/Profile (2).png"
+    },
+    {
+      "rating": 5,
+      "review": "Great Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "name": "James Gouse",
+      "title": "Graphic Designer",
+      "imageSrc": "recommendation/Profile.png"
+    }
+  ]

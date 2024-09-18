@@ -1,0 +1,70 @@
+@import "../../vars.css";
+
+.navi{
+    height: 152px;
+}
+.section1 {
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    max-width: 1440px;
+    flex: 1;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    z-index: 5000;
+    height: 152px;
+    width: 1440px;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    box-shadow: 4px 0px 10px 0px #2F7AF91A;
+}
+.navbar img {
+    margin-left: 98px;
+}
+
+.menu {
+    display: flex;
+    position: absolute;
+    left: 720px;
+    width: 640px;
+}
+
+.menuItems {
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.menuItems li {
+    list-style: none;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    background-color: inherit;
+    box-sizing: border-box;
+}
+
+.menuItems a {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    text-decoration: none;
+    padding: 10px 14px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.menuItems li a:hover {
+    color: #0009ae;
+}
+
+.menuItems li.active {
+    background-color: #FFB400;
+    color: #fff;
+}

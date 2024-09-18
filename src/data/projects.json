@@ -1,0 +1,79 @@
+[
+    {
+        "imageSrc": "projects/Image.png",
+        "title": "How To Make Flyer Design",
+        "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd And Lorem Ipsum...",
+        "skills": [
+            "Typescript",
+            "ReactJs",
+            "NextJs",
+            "CSS",
+            "HTML",
+            "MongoDB"
+        ]
+    },
+    {
+        "imageSrc": "projects/Image2.png",
+        "title": "How To Make Flyer Design",
+        "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd And Lorem Ipsum...",
+        "skills": [
+            "Typescript",
+            "ReactJs",
+            "NextJs",
+            "CSS"
+        ]
+    },
+    {
+        "imageSrc": "projects/Image (1).png",
+        "title": "How To Make Flyer Design",
+        "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd And Lorem Ipsum...",
+        "skills": [
+            "Typescript",
+            "ReactJs",
+            "NextJs",
+            "CSS",
+            "HTML",
+            "MongoDB"
+        ]
+    },
+    {
+        "imageSrc": "projects/Image (2).png",
+        "title": "How To Make Flyer Design",
+        "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd And Lorem Ipsum...",
+        "skills": [
+            "Typescript",
+            "ReactJs",
+            "NextJs",
+            "CSS",
+            "HTML",
+            "MongoDB"
+        ]
+    },
+    {
+        "imageSrc": "projects/Image (3).png",
+        "title": "How To Make Flyer Design",
+        "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd And Lorem Ipsum...",
+        "skills": [
+            "Typescript",
+            "ReactJs",
+            "NextJs",
+            "CSS",
+            "HTML",
+            "MongoDB"
+        ]
+    },
+    {
+        "imageSrc": "projects/Image (4).png",
+        "title": "How To Make Flyer Design",
+        "description": "Lorem Ipsum Dolor Sit Amet, Consec Adipisicing Elit Awd And Lorem Ipsum...",
+        "skills": [
+            "Typescript",
+            "ReactJs",
+            "NextJs",
+            "CSS",
+            "HTML",
+            "MongoDB"
+        ]
+    }
+    
+]

@@ -1,0 +1,52 @@
+.section4 {
+    width: 1440px;
+    background-color:#F0F0F6;
+    box-sizing: border-box;
+    height: 520px;
+    
+    box-sizing: border-box;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1244px;
+    height: auto;
+    gap: 45px;
+    background-color: inherit;
+    box-sizing: border-box;
+    position: relative;
+    left:98px;
+  }
+  
+  .heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 510px;
+    height: 92px;
+    gap: 12px;
+  }
+  
+  .title {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39.55px;
+  }
+  
+  .heading p {
+  
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+  
+  }
+  
+  .carousel {
+    width: 1245px;
+  }

@@ -1,0 +1,61 @@
+@import "../../vars.css";
+
+.section3 {
+  width: 1440px;
+  background-color: #F0F0F6;
+  box-sizing: border-box;
+ 
+  padding: 60px 0px;
+  height: 1176px;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1246px;
+  height: 1057px;
+  top: 0px;
+  left: 97px;
+  gap: 45px;
+  opacity: 0px;
+  background-color: inherit;
+  box-sizing: border-box;
+
+}
+
+.projectheading {
+  display: flex;
+  flex-direction: column;
+  width: 640px;
+  height: 100.26px;
+  gap:12px;
+  opacity: 0px;
+  text-align: center;
+  justify-content: center;
+}
+
+.title {
+  height: 100.26px;
+  gap: 12px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 39.55px;
+  text-align: center;
+
+}
+
+.projects {
+  width: 385px;
+  height: 432.45px;
+  gap: 45px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}

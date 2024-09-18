@@ -1,0 +1,58 @@
+.card {
+    width: 340px;
+    height: 327px;
+    background: white;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .rating {
+    font-size: 20px;
+    color: #ffd700;
+  }
+  
+  .review {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 12px 0;
+    line-height: 22px;
+  
+  }
+  
+  .description {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    color: #767676;
+    margin-bottom: 30px;
+    line-height: 24px;
+    text-align: left;
+  
+  
+  }
+  
+  .userInfo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .userImage {
+    width: 90px;
+    height: 81px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .userName {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .userTitle {
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    color: #767676;
+  }

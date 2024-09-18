@@ -1,0 +1,88 @@
+.skillsSection {
+    width: 1440px;
+    height: auto;
+    background-color:#f0f0f6;
+    gap: 45px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 1245px;
+    margin:0px 98px;
+  }
+  
+  .skillsHeading {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px;
+    position: relative;
+    top: 32px;
+  }
+  
+  .skillGroup {
+    width: 384px;
+    height: 316px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 45px;
+  }
+  
+  .domain {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .skill {
+    margin-bottom: 25px;
+  }
+  
+  .progressBar {
+   
+    background: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden;
+    width:290px ;
+    height: 4px;
+    position: relative;
+    left:52px;
+    box-sizing: border-box;
+    border: 0.5px solid #ffb400;
+  }
+  .nameskill{
+    display: flex;
+    justify-content: space-between;
+    width: 290px;
+    position: relative;
+    left: 52px;
+  }
+  .progress {
+    height: 2px;
+    background: #ffb400;
+    border-radius: 5px;
+  }
+  
+  .addSkillButton {
+    display: block;
+    margin: 40px auto;
+    padding: 10px 20px;
+    background-color: #ffb400;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }

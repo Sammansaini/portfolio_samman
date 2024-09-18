@@ -1,0 +1,125 @@
+
+.footer{
+    background-color: #F0F0F6;
+    width: 1440px;
+}
+.footer1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footerSection{
+    height: 114px;
+    width: 970px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo{
+    height: 114px;
+    width: 140px;
+}
+.frame270{
+    margin-left: 98px;
+    margin-top: 45px;
+}
+
+.logo1{
+    height: 76px;
+    width: 158px;
+    margin-bottom: 45px;
+}
+.frame271{
+    height: 230px;
+    width: 1244px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.logos{
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.links{
+    width: 780px;
+    height: 202px;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+
+}
+.quicklinks{
+    width: 141px;
+    height: 202px;
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.quicklinks li {
+    text-decoration: none;
+    list-style: none;
+}
+a:link { 
+    text-decoration: none; 
+    color: black;
+  } 
+a:visited { 
+    text-decoration: none; 
+    color: black;
+  } 
+a:hover { 
+    text-decoration: underline; 
+    color: black;
+
+  } 
+a:active { 
+    text-decoration: none; 
+    color: black;
+  }
+.portfolio{
+    width: 174px;
+    height: 192px;
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.portfolio li{
+    
+    text-decoration: none;
+    list-style: none;
+}
+
+.connect{
+    height: 157px;
+    width: 125px;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.social{
+    width: 125px;
+    height: 107px;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    flex-direction: column;
+    
+}
+.copyRightMain{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+.copyright{
+    font-weight: 800;
+    color: grey;
+    
+}

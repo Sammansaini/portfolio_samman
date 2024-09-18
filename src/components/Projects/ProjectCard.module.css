@@ -1,0 +1,91 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    background: white;
+    width: 385px;
+    height: 432px;
+    border: 1px solid #00000033;
+    box-shadow: 5px 5px 10px 0px #0000001A;
+
+}
+
+.image {
+    width: 385px;
+    height: 256px;
+    gap: 0px;
+    border-radius: 12px 12px 0px 0px;
+    opacity: 0px;
+}
+
+.title {
+    width: 267.25px;
+    height: 20.22px;
+    top: 16px;
+    left: 16.09px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    
+    line-height: 19.78px;
+    text-align: left;
+
+}
+
+.description {
+    width: 353px;
+    height: 41px;
+    top: 39.89px;
+    left: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #767676;
+
+}
+
+.skills {
+    margin-top: 14px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    width: 353px;
+    height: 60.55px;
+    gap: 10px;
+    opacity: 0px;
+
+}
+
+.cardcontent {
+    width: 385px;
+    height: 176.45px;
+    padding: 16px 16px 20px 16px;
+    gap: 15px;
+    opacity: 0px;
+
+}
+
+.skill {
+    width: auto;
+    height: 25.28px;
+    padding: 0px 14px 0px 14px;
+    gap: 10px;
+    opacity: 0px;
+    background: #EFEFEF;
+    border: 1px solid #0000000D;
+    border-radius: 50px;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+
+}
